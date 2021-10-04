@@ -1,7 +1,7 @@
 .categories{
     display: flex;
     flex-wrap: wrap;
-    min-height: calc(100vh - 329.5px);
+    min-height: calc(100vh - 328.5px);
 }
 .card{
     height: 300px;

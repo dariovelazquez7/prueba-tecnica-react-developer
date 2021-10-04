@@ -36,7 +36,7 @@ npm test
 * CSS modules para lo estilos, su principal ventaja es que hashea los nombres de las clases, evitando asi que una clase pise a otra.
 
 ### Mejoras 📌
-* Inclusión de un mayor numero de test unitarios.
+* Inclusión de un MAYOR numero de test unitarios.
 * Tests End to End.
 * Agregar un menu desplegable el inicio de la version mobile.
 
