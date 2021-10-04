@@ -27,7 +27,7 @@ _Para ejecutar los tests unitarios asegurarse estar dentro de la carpeta `/dist`
 npm test
 ```
 
-## Consigna 📋
+## Consideraciones 📋
 
 ### Opciones técnicas y arquitectónicas utilizadas 📌
 
